@@ -1,0 +1,21 @@
+{
+  "name": "babel-browser-polyfill",
+  "authors": [
+    "Giorgio Modoni <modogio@gmail.com>"
+  ],
+  "description": "standalone version for browser babel polyfill",
+  "main": "polyfill.js",
+  "keywords": [
+    "babel",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
